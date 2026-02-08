@@ -4,10 +4,10 @@ Musa Barber Shop is a full-stack web application developed as a group project du
 
 ## Technologies Used:
 
-- MongoDB: A NoSQL database used for storing user data, appointments, and other relevant information.
-- Express.js: A web application framework for Node.js used to build the backend API.
-- React.js: A JavaScript library for building user interfaces, used for developing the frontend of the application.
-- Node.js: A JavaScript runtime environment used for executing server-side code.
+- **MongoDB**: A NoSQL database used for storing user data, appointments, and other relevant information.
+- **Express.js**: A web application framework for Node.js used to build the backend API.
+- **React.js**: A JavaScript library for building user interfaces, used for developing the frontend of the application.
+- **Node.js**: A JavaScript runtime environment used for executing server-side code.
 
 ## Team Members:
 
