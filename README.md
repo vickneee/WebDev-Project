@@ -9,6 +9,10 @@ Musa Barber Shop is a full-stack web application developed as a group project du
 - **React.js**: A JavaScript library for building user interfaces, used for developing the frontend of the application.
 - **Node.js**: A JavaScript runtime environment used for executing server-side code.
 
+## Demo Video
+
+[Watch the demo on YouTube](https://www.youtube.com/watch?v=0nC7l_O6t7Q)
+
 ## Team Members:
 
 - Hussein Fadil
