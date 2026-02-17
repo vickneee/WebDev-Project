@@ -18,8 +18,8 @@ function ContactInfo() {
         <div className="">
           <h2 className="">Contact Info</h2>
           <p className="contact-info-label">Email:</p>
-          <a href="mailto:ahmedmslawi@gmail.com" className="link">
-            ahmedmslawi@gmail.com
+          <a href="mailto:barbershop@gmail.com" className="link">
+            barbershop@gmail.com
           </a>
 
           <p className="contact-info-label location">Location:</p>
